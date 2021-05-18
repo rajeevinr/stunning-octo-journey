@@ -1,0 +1,2 @@
+# stunning-octo-journey
+CSS3 is the latest version of CSS. It holds many advantages over its predecessor. CSS3 started to gain popularity in early 2010. At that time, some of the browsers did not even use to support CSS3 and so it took a while for the web developer community to start implementing this in their projects. Here, we will see the advantages of CSS3 over CSS, and also discuss why CSS3 gained such huge popularity in a short amount of time.
